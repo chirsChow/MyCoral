@@ -37,7 +37,7 @@ public class AppsGridAdapter extends BaseAdapter {
 		availableApp.add("com.tencent.mobileqq");
 		availableApp.add("com.miui.notes");
 		availableApp.add("com.android.fileexplorer");
-		availableApp.add("com.sfpay.webapp");
+		availableApp.add("com.zhouqunhui.mycoral.webapp");
 		applicationInfos = applicationInfoManager.initAvailableApplicationInfos(availableApp);
 	}
 
