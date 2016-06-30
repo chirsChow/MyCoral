@@ -11,7 +11,7 @@
         android:fillViewport="true"
         android:scrollbars="none" >
 
-        <com.sfpay.downloadzip.widget.SfPayGridView
+        <com.zhouqunhui.mycoral.widget.SfPayGridView
             android:id="@+id/apps_grid"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
