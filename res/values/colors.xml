@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="griditems_bg">#ffe8ecef</color>
+      <color name="commo_text_color">#ff333333</color>
+        <color name="line">#ffd3dde6</color>
+</resources>

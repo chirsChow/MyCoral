@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="server" translatable="false">http://192.168.56.1:3000</string>
+    <string name="enable_mock_server" translatable="false">false</string>
+    <string name="enable_www_debug" translatable="false">true</string>
+    <string name="www_debug_url" translatable="false">http://192.168.56.1:5000</string>
+
+    <!-- SHARE PREFERENCES KEYS -->
+    <string name="pref_name" translatable="false">coral_pref</string>
+    <string name="pref_key_username" translatable="false">pref_key_username</string>
+    <string name="pref_key_oath_token" translatable="false">pref_key_oath_token</string>
+    <string name="pref_key_log_enabled" translatable="false">pref_key_log_enabled</string>
+
+</resources>
